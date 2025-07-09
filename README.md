@@ -248,9 +248,9 @@ Start with this preview to see the code quality and architecture, then get the c
 ## 📧 Kontakt
 
 **Interessiert an der vollständigen Version?**
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🐦 Twitter: [@yourusername](https://twitter.com/yourusername)
-- 💬 GitHub Discussions: [Fragen stellen](https://github.com/yourusername/nextjs-saas-foundation/discussions)
+- 📧 Email: [nextjs.saas.foundation@gmail.com](mailto:nextjs.saas.foundation@gmail.com?subject=Next.js%20SaaS%20Foundation%20-%20Interest)
+- 🐦 Twitter: [@bayrakf](https://twitter.com/bayrakf)
+- 💬 GitHub Discussions: [Fragen stellen](https://github.com/bayrakf/nextjs-saas-foundation/discussions)
 
 **Vollständige Version kommt bald mit:**
 - ✅ Stripe Payment Integration

@@ -16,15 +16,15 @@
     "prisma",
     "multi-tenant"
   ],
-  "homepage": "https://github.com/yourusername/nextjs-saas-foundation#readme",
+  "homepage": "https://github.com/bayrakf/nextjs-saas-foundation#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/nextjs-saas-foundation.git"
+    "url": "git+https://github.com/bayrakf/nextjs-saas-foundation.git"
   },
   "license": "MIT",
   "author": {
-    "name": "Your Name",
-    "email": "your.email@example.com"
+    "name": "Fatih Bayrak",
+    "email": "nextjs.saas.foundation@gmail.com"
   },
   "scripts": {
     "dev": "next dev",

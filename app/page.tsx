@@ -25,13 +25,13 @@ export default function HomePage() {
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" className="text-lg px-8" asChild>
-              <a href="https://github.com/yourusername/nextjs-saas-foundation/discussions">
+              <a href="https://github.com/bayrakf/nextjs-saas-foundation/discussions">
                 Get Notified When Ready
                 <ArrowRight className="ml-2 h-5 w-5" />
               </a>
             </Button>
             <Button variant="outline" size="lg" className="text-lg px-8" asChild>
-              <a href="https://github.com/yourusername/nextjs-saas-foundation">
+              <a href="https://github.com/bayrakf/nextjs-saas-foundation">
                 View on GitHub
               </a>
             </Button>
@@ -176,12 +176,12 @@ export default function HomePage() {
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" variant="secondary" className="text-lg px-8" asChild>
-              <a href="mailto:your.email@example.com?subject=Next.js SaaS Foundation - Notify Me">
+              <a href="mailto:nextjs.saas.foundation@gmail.com?subject=Next.js%20SaaS%20Foundation%20-%20Notify%20Me&body=Hi!%0A%0APlease%20notify%20me%20when%20the%20complete%20version%20is%20available.%0A%0AThanks!">
                 Notify Me When Available
               </a>
             </Button>
             <Button size="lg" variant="outline" className="text-lg px-8 border-white text-white hover:bg-white hover:text-primary" asChild>
-              <a href="https://github.com/yourusername/nextjs-saas-foundation">
+              <a href="https://github.com/bayrakf/nextjs-saas-foundation">
                 Star on GitHub
               </a>
             </Button>

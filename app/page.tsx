@@ -25,14 +25,14 @@ export default function HomePage() {
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" className="text-lg px-8" asChild>
-              <a href="https://github.com/bayrakf/nextjs-saas-foundation/discussions">
-                Get Notified When Ready
+              <a href="/demo">
+                View Live Demo
                 <ArrowRight className="ml-2 h-5 w-5" />
               </a>
             </Button>
             <Button variant="outline" size="lg" className="text-lg px-8" asChild>
               <a href="https://github.com/bayrakf/nextjs-saas-foundation">
-                View on GitHub
+                Star on GitHub
               </a>
             </Button>
           </div>

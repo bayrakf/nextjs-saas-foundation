@@ -13,6 +13,8 @@
 
 Ein vollständiger, production-ready SaaS Starter, der dir **2-3 Monate Entwicklungszeit** spart. Erstellt mit modernen Best Practices und Enterprise-Standards.
 
+> 💡 **Dies ist eine Preview-Version.** Die vollständige Version mit allen Features wird bald verfügbar sein. [Interessiert? Melde dich für Updates an!](#kontakt)
+
 ## ⚡ Quick Preview
 
 🔐 **Authentication System**  
@@ -242,6 +244,21 @@ Start with this preview to see the code quality and architecture, then get the c
 - Modern web browser
 
 *Complete version additionally requires: PostgreSQL database, Stripe account*
+
+## 📧 Kontakt
+
+**Interessiert an der vollständigen Version?**
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 🐦 Twitter: [@yourusername](https://twitter.com/yourusername)
+- 💬 GitHub Discussions: [Fragen stellen](https://github.com/yourusername/nextjs-saas-foundation/discussions)
+
+**Vollständige Version kommt bald mit:**
+- ✅ Stripe Payment Integration
+- ✅ Multi-Tenant Organizations  
+- ✅ Email System & Templates
+- ✅ Comprehensive Documentation
+- ✅ Video Tutorials
+- ✅ Production Deployment Guides
 
 ---
 

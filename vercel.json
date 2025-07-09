@@ -1,9 +1,5 @@
 {
   "name": "nextjs-saas-foundation",
-  "env": {
-    "NEXTAUTH_URL": "@nextauth-url",
-    "NEXTAUTH_SECRET": "@nextauth-secret"
-  },
   "functions": {
     "app/api/**/*.ts": {
       "maxDuration": 10

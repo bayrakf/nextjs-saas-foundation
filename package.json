@@ -1,5 +1,5 @@
 {
-  "name": "react-shadcn-saas-starter",
+  "name": "nextjs-saas-foundation",
   "version": "1.0.0",
   "description": "🚀 Modern SaaS Starter with Next.js 14, Shadcn/UI, TypeScript, authentication, payments, and i18n",
   "keywords": [
@@ -16,10 +16,10 @@
     "prisma",
     "multi-tenant"
   ],
-  "homepage": "https://github.com/yourusername/react-shadcn-saas-starter#readme",
+  "homepage": "https://github.com/yourusername/nextjs-saas-foundation#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/react-shadcn-saas-starter.git"
+    "url": "git+https://github.com/yourusername/nextjs-saas-foundation.git"
   },
   "license": "MIT",
   "author": {

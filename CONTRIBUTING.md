@@ -30,8 +30,8 @@ This is the **preview repository** for our React + Shadcn/UI SaaS Starter. The c
 ### Preview Setup
 ```bash
 # Clone this preview repository
-git clone https://github.com/yourusername/react-shadcn-saas-starter.git
-cd react-shadcn-saas-starter
+git clone https://github.com/yourusername/nextjs-saas-foundation.git
+cd nextjs-saas-foundation
 
 # Install dependencies
 npm install

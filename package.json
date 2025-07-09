@@ -1,0 +1,65 @@
+{
+  "name": "react-shadcn-saas-starter",
+  "version": "1.0.0",
+  "description": "🚀 Modern SaaS Starter with Next.js 14, Shadcn/UI, TypeScript, authentication, payments, and i18n",
+  "keywords": [
+    "saas",
+    "nextjs",
+    "react",
+    "typescript",
+    "shadcn-ui",
+    "tailwindcss",
+    "starter-kit",
+    "boilerplate",
+    "authentication",
+    "stripe",
+    "prisma",
+    "multi-tenant"
+  ],
+  "homepage": "https://github.com/yourusername/react-shadcn-saas-starter#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/react-shadcn-saas-starter.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Your Name",
+    "email": "your.email@example.com"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@radix-ui/react-avatar": "^1.0.4",
+    "@radix-ui/react-dropdown-menu": "^2.0.6",
+    "@radix-ui/react-label": "^2.0.2",
+    "@radix-ui/react-slot": "^1.0.2",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.0.0",
+    "framer-motion": "^10.16.16",
+    "lucide-react": "^0.299.0",
+    "next": "14.0.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tailwind-merge": "^2.2.0",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.5",
+    "@types/react": "^18.2.45",
+    "@types/react-dom": "^18.2.18",
+    "autoprefixer": "^10.4.16",
+    "eslint": "^8.56.0",
+    "eslint-config-next": "14.0.4",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.4.0",
+    "typescript": "^5.3.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

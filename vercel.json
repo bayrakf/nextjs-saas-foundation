@@ -1,18 +1,11 @@
 {
-  "version": 2,
   "name": "nextjs-saas-foundation",
-  "builds": [
-    {
-      "src": "next.config.js",
-      "use": "@vercel/next"
-    }
-  ],
   "env": {
     "NEXTAUTH_URL": "@nextauth-url",
     "NEXTAUTH_SECRET": "@nextauth-secret"
   },
   "functions": {
-    "app/api/**/*.js": {
+    "app/api/**/*.ts": {
       "maxDuration": 10
     }
   }

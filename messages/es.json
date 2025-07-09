@@ -1,0 +1,19 @@
+{
+  "common": {
+    "loading": "Cargando...",
+    "error": "Ocurrió un error",
+    "success": "Éxito"
+  },
+  "navigation": {
+    "home": "Inicio",
+    "features": "Características",
+    "pricing": "Precios",
+    "contact": "Contacto"
+  },
+  "landing": {
+    "title": "Next.js SaaS Foundation",
+    "subtitle": "Construye tu SaaS más rápido con nuestro kit de inicio moderno",
+    "cta": "Comenzar",
+    "notify": "Notificarme cuando esté disponible"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success"
+  },
+  "navigation": {
+    "home": "Home",
+    "features": "Features",
+    "pricing": "Pricing",
+    "contact": "Contact"
+  },
+  "landing": {
+    "title": "Next.js SaaS Foundation",
+    "subtitle": "Build your SaaS faster with our modern starter kit",
+    "cta": "Get Started",
+    "notify": "Notify Me When Available"
+  }
+}
